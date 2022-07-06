@@ -28,5 +28,5 @@ Table below shows the distinction between the features in both .xlsx files. All 
 * **Bold** indicates what was removed from RAW to CLEANED dataset*
 
 ### Requirements: 
-Download SQL Server Management Studio > https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
-Download SQL Server Express > https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+[Download SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
+[Download SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) 
